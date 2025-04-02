@@ -96,11 +96,6 @@ The `encoding/gob` package is used to asynchronously create a dump of the store 
 
 ## **Example Usage**
 
-### **Start the server**
-
-```sh
-go run server.go
-```
 
 ### **Using the commands via CLI (or a Redis client)**
 
